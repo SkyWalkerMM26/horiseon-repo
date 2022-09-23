@@ -1,4 +1,4 @@
-#  Horiseon Search Engines Optimization
+#  Horiseon Search Engine Optimization
 
 ![image](https://user-images.githubusercontent.com/113512061/191882597-11204440-4e4e-4ada-81b0-94a6c9ba734b.png)
 
