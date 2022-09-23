@@ -28,5 +28,9 @@ I begin with the starter code that was given. Without changing too much of the p
 
 ## Preview of the page
 ![image](https://user-images.githubusercontent.com/113512061/191883091-dae64254-c8d2-4738-97ff-7680711bbfcc.png)
+ 
+ ### License
+MIT
+
 
 
