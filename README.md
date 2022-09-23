@@ -20,7 +20,7 @@ I begin with the starter code that was given. Without changing too much of the p
 2. VS Code
 3. Terminal
 
-## Preview of the index.html:
+## Preview of the index.html
  ![image](https://user-images.githubusercontent.com/113512061/191884313-e2cabbc1-e2aa-4bcf-abc3-5cf964901dd9.png)
 
 ## Preview of the style.css
